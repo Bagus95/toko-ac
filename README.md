@@ -13,6 +13,6 @@ framework CodeIgniter
 
 # Team TOKO AC Jepara
 
-1. Bagus Santoso  (141240000306)
-2. Muhamad Azis   (141240000285)
-3. M. Rizal Abror (141240000347)
+1. Bagus Santoso    (141240000306)
+2. Muhamad Azis     (141240000285)
+3. M. Rizal Abror   (141240000347)
